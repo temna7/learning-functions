@@ -35,6 +35,6 @@ console.log(`volume = ${volume(10, 20, 30)}`);
 
 
 
-console.log(superBowlScore(3, 3, 0, 5));
+console.log(`SuperBowl score prediction: ${superBowlScore(3, 3, 0, 5)}`);
 
 // Write your Bonus code below this line
