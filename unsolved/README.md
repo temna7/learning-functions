@@ -24,6 +24,10 @@ Work with your breakout group to implement the following user stories:
 
 * Use the Super Bowl Score function to predict the score for each team, and console log a Final Score prediction.
 
+## Screenshot of Console when Solved
+
+![screenshot-console-solved](../assets/images/screenshot-solved.png)
+
 ## 💡 Hints
 
 Use [Google](https://www.google.com) or another search engine to research this.
