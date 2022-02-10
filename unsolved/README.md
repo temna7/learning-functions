@@ -27,6 +27,7 @@ Work with your breakout group to implement the following user stories:
 ## Screenshot of Console when Solved
 
 ![screenshot-console-solved](../assets/images/screenshot-solved.png)
+console.log()
 
 ## 💡 Hints
 
